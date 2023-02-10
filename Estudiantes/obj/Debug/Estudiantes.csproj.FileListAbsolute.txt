@@ -1,0 +1,8 @@
+C:\Users\crist\Desktop\Tareas Progra\Tarea Arreglo\Estudiantes\bin\Debug\Estudiantes.exe.config
+C:\Users\crist\Desktop\Tareas Progra\Tarea Arreglo\Estudiantes\bin\Debug\Estudiantes.exe
+C:\Users\crist\Desktop\Tareas Progra\Tarea Arreglo\Estudiantes\bin\Debug\Estudiantes.pdb
+C:\Users\crist\Desktop\Tareas Progra\Tarea Arreglo\Estudiantes\obj\Debug\Estudiantes.csproj.AssemblyReference.cache
+C:\Users\crist\Desktop\Tareas Progra\Tarea Arreglo\Estudiantes\obj\Debug\Estudiantes.csproj.SuggestedBindingRedirects.cache
+C:\Users\crist\Desktop\Tareas Progra\Tarea Arreglo\Estudiantes\obj\Debug\Estudiantes.csproj.CoreCompileInputs.cache
+C:\Users\crist\Desktop\Tareas Progra\Tarea Arreglo\Estudiantes\obj\Debug\Estudiantes.exe
+C:\Users\crist\Desktop\Tareas Progra\Tarea Arreglo\Estudiantes\obj\Debug\Estudiantes.pdb
